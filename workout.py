@@ -29,7 +29,7 @@ def recommend(video, cosine_sim, videos):
     return recommend_videos
 
 # Load the CSV file
-videos = pd.read_csv(r'C:\Users\shinb\OneDrive\Documents\S_drive\Latestfile.CSV')  # Adjust the file path accordingly
+videos = pd.read_csv(r'C:\Users\Latestfile.CSV')  # Adjust the file path accordingly
 
 videos = videos.drop_duplicates(subset='title')
 # Load the pickle file
