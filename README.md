@@ -1,4 +1,5 @@
 # Workout-Recommendation-Using-Content-Based-Filtering-Algorithm
+<br>
 <h2>This project is made using Python, Streamlit and Jupyter Notebook. 
 <br>The workout videos are recommended using Content Based Filtering Algorithm. 
   <br>The user can select any title within the given dataset and the workouts will be recommended according to it.</h2>
